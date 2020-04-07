@@ -1,0 +1,15 @@
+{
+    "name": "gael/composer-quest",
+    "description": "composer quest 1",
+    "authors": [
+        {
+            "name": "galgros",
+            "email": "galgros@yahoo.fr"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {"App\\Wcs\\": "src/wcs/"}
+    }
+}
